@@ -1,0 +1,5 @@
+{
+  "name": "Zaki - AI BIM Clash Triage",
+  "description": "An intelligent tool for classifying Navisworks clashes using Gemini AI. Import CSVs, classify issues (Critical, Tolerance, etc.), assign responsibility, and auto-generate descriptions.",
+  "requestFramePermissions": []
+}
